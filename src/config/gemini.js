@@ -1,5 +1,5 @@
 import { config } from "dotenv";
-import CONFIG from "../../config";
+// import CONFIG from "../../config";
 
 import {
     GoogleGenerativeAI,
